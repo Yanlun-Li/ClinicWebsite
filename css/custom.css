@@ -264,6 +264,8 @@ strong {
   right: 0;
   padding: 1.5rem 2.5rem;
   width: 50%;
+  border-top-left-radius: 50px;
+  background: linear-gradient(rgba(255, 255, 255, 0.9), rgba(255, 255, 255, 1));
 }
 
 .contact-phone {
@@ -827,6 +829,8 @@ strong {
     width: auto;
     margin-bottom: -100px;
     padding: 2rem;
+    border-top-left-radius: 0px;
+    background: rgba(255, 255, 255, 1);
   }
 
   .featured-circle {
