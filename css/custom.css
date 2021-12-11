@@ -108,6 +108,8 @@ a:hover {
   color: var(--primary-color);
 }
 
+span.tab-space {padding-left:1em;}
+
 .section-padding {
   padding-top: 7rem;
   padding-bottom: 7rem;
