@@ -115,6 +115,11 @@ span.tab-space {padding-left:1em;}
   padding-bottom: 7rem;
 }
 
+.footer-padding {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 /*---------------------------------------
   CUSTOM LINK               
 -----------------------------------------*/
@@ -808,6 +813,10 @@ strong {
   .section-padding {
     padding-top: 5rem;
     padding-bottom: 5rem;
+  }
+  .footer-padding {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
   }
 
   .navbar {
