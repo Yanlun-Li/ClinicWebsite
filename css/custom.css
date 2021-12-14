@@ -789,6 +789,12 @@ strong {
   }
 }
 
+@media screen and (max-width: 1399px) {
+  .heroText {
+    width: 50%;
+  }
+}
+
 @media screen and (max-width: 991px) {
   body {
     padding-top: 74px;
