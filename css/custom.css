@@ -744,6 +744,14 @@ strong {
   background: var(--section-bg-color);
 }
 
+footer p {
+  font-size: 15px;
+}
+
+footer h3 {
+  font-size: 25px;
+}
+
 .copyright-text {
   font-size: var(--menu-font-size);
 }
