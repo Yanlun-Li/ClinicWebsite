@@ -275,6 +275,14 @@ strong {
   background: linear-gradient(rgba(255, 255, 255, 0.6), rgba(255, 255, 255, 1));
 }
 
+.languageToggle {
+  position: absolute;
+  z-index: 20;
+  top: 0;
+  right: 1rem;
+  padding: 1rem;
+}
+
 .contact-phone {
   font-weight: var(--font-weight-semibold);
 }
