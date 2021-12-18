@@ -744,6 +744,14 @@ strong {
   background: var(--section-bg-color);
 }
 
+footer p {
+  font-size: 15px;
+}
+
+footer h3 {
+  font-size: 25px;
+}
+
 .copyright-text {
   font-size: var(--menu-font-size);
 }
@@ -786,6 +794,12 @@ strong {
 @media screen and (min-width: 1600px) {
   .hero .container {
     height: 740px;
+  }
+}
+
+@media screen and (max-width: 1399px) {
+  .heroText {
+    width: 50%;
   }
 }
 
