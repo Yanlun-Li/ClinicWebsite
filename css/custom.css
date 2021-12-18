@@ -279,7 +279,7 @@ strong {
   position: absolute;
   z-index: 20;
   top: 0;
-  right: 1rem;
+  left: 0rem;
   padding: 1rem;
 }
 
